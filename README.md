@@ -6,7 +6,7 @@ This is the Github repository associated with this Azure Pipelines project: http
 of using R with Azure Pipelines to use a CI/CD process to trigger training of a
 predictive model.
 
-You will need an Azure Subscription to replicate these examples. For new subscribers, [use this link for an Azure Account](https://azure.microsoft.com/free/?WT.mc_id=rmlops-github-davidsmi) that includes $200 of Azure services.
+You will need an Azure Subscription to replicate these examples. For new subscribers, [use this link for an Azure Account](https://azure.microsoft.com/free/?WT.mc_id=opensource-0000-davidsmi) that includes $200 of Azure services.
 
 ## Presentations
 
